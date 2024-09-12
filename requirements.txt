@@ -13,3 +13,4 @@ tiktoken
 pytorch
 huggingface_hub
 transformers
+streamlit
