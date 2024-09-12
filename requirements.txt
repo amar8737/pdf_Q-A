@@ -1,0 +1,15 @@
+langchain
+bitsandbytes
+accelerate
+xforms
+einops
+datasets
+loralib
+sentencepiece
+pypdf
+sentence_transformers
+chromadb
+tiktoken
+pytorch
+huggingface_hub
+transformers
